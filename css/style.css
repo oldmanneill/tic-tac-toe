@@ -69,7 +69,11 @@ span {
 div {
   font-family: 'PT Mono', monospace;
 }
-whosTurn{
+.whosTurn{
   margin-left:auto;
   margin-right:auto;
+}
+.blurb {
+  max-width: 400px;
+  font-size: 18px;
 }
